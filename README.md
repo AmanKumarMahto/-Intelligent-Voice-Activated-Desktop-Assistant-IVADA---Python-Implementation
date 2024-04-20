@@ -1,6 +1,11 @@
 # -Intelligent-Voice-Activated-Desktop-Assistant-IVADA---Python-Implementation
 AI Desktop Voice Assistant Project:
-Technologies Used: Python, Natural Language Processing (NLP), Speech Recognition, Text-to-Speech (TTS) conversion,
+Technologies Used: Python, Natural Language Processing (NLP),
+
+Speech Recognition, 
+
+Text-to-Speech (TTS) conversion,
+
 Python libraries (e.g., NLTK, SpeechRecognition, pyttsx3)
 
 Developed Python-based AI voice assistant for desktops.
