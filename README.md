@@ -4,7 +4,9 @@ Technologies Used: Python, Natural Language Processing (NLP), Speech Recognition
 Python libraries (e.g., NLTK, SpeechRecognition, pyttsx3)
 
 Developed Python-based AI voice assistant for desktops.
+
 Implemented natural language processing for user commands.
+
 Integrated with system functionalities for tasks automation.
-Enhanced user experience through voice interaction.
+
 Project demonstrates proficiency in Python programming and AI integration.
