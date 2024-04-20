@@ -1,6 +1,9 @@
 # -Intelligent-Voice-Activated-Desktop-Assistant-IVADA---Python-Implementation
 AI Desktop Voice Assistant Project:
-Technologies Used: Python, Natural Language Processing (NLP),
+
+Technologies Used:
+
+Python, Natural Language Processing (NLP),
 
 Speech Recognition, 
 
